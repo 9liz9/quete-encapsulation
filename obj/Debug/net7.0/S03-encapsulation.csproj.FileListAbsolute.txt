@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/bin/Debug/net7.0/S03-encapsulation
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/bin/Debug/net7.0/S03-encapsulation.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/bin/Debug/net7.0/S03-encapsulation.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/bin/Debug/net7.0/S03-encapsulation.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/bin/Debug/net7.0/S03-encapsulation.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/S03-encapsulation.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/S03-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/S03-encapsulation.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/S03-encapsulation.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/S03-encapsulation.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/S03-encapsulation.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/refint/S03-encapsulation.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/S03-encapsulation.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/S03-encapsulation.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S03-encapsulation/obj/Debug/net7.0/ref/S03-encapsulation.dll
